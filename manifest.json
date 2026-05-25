@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Serendipity-Midnight",
+    "description": "Serendipity for Spicetify \u2014 Serendipity Midnight (dark mode).",
+    "preview": "preview.png",
+    "readme": "README.md",
+    "usercss": "Serendipity-Midnight/user.css",
+    "schemes": "Serendipity-Midnight/color.ini",
+    "authors": [
+      {
+        "name": "Micheal Andreuzza",
+        "url": "https://github.com/michael-andreuzza"
+      }
+    ],
+    "tags": [
+      "dark",
+      "serendipity",
+      "minimal"
+    ]
+  },
+  {
+    "name": "Serendipity-Morning",
+    "description": "Serendipity for Spicetify \u2014 Serendipity Morning (light mode).",
+    "preview": "preview.png",
+    "readme": "README.md",
+    "usercss": "Serendipity-Morning/user.css",
+    "schemes": "Serendipity-Morning/color.ini",
+    "authors": [
+      {
+        "name": "Micheal Andreuzza",
+        "url": "https://github.com/michael-andreuzza"
+      }
+    ],
+    "tags": [
+      "light",
+      "serendipity",
+      "minimal"
+    ]
+  },
+  {
+    "name": "Serendipity-Sunset",
+    "description": "Serendipity for Spicetify \u2014 Serendipity Sunset (dark mode).",
+    "preview": "preview.png",
+    "readme": "README.md",
+    "usercss": "Serendipity-Sunset/user.css",
+    "schemes": "Serendipity-Sunset/color.ini",
+    "authors": [
+      {
+        "name": "Micheal Andreuzza",
+        "url": "https://github.com/michael-andreuzza"
+      }
+    ],
+    "tags": [
+      "dark",
+      "serendipity",
+      "minimal"
+    ]
+  }
+]

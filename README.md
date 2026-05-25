@@ -14,9 +14,15 @@ See other interfaces at the [official website](https://www.michaelandreuzza.com/
 
 ## Installation
 
+### Spicetify Marketplace
+
+Published for the [Spicetify Marketplace](https://github.com/spicetify/marketplace). Open Marketplace in Spotify and search **Serendipity**.
+
+### Manual installation
+
 Copy a theme folder into Spicetify's Themes directory and apply with `spicetify config current_theme`.
 
-Available files: `Serendipity-Midnight/color.ini`, `Serendipity-Midnight/user.css`, `Serendipity-Morning/color.ini`, `Serendipity-Morning/user.css`, `Serendipity-Sunset/color.ini`, `Serendipity-Sunset/user.css`.
+Available files: `Serendipity-Midnight/color.ini`, `Serendipity-Midnight/user.css`, `Serendipity-Morning/color.ini`, `Serendipity-Morning/user.css`, `Serendipity-Sunset/color.ini`, `Serendipity-Sunset/user.css`, `manifest.json`, `preview.png`.
 
 ## Created by
 
