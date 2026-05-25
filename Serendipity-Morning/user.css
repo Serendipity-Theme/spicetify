@@ -1,0 +1,14 @@
+/* Serendipity Serendipity Morning for Spicetify */
+:root {
+  --spice-main: #f6f7fb;
+  --spice-sidebar: #eaebee;
+  --spice-player: #eaebee;
+  --spice-card: #eaebee;
+  --spice-subtext: #505575;
+  --spice-text: #3f4363;
+  --spice-button: #e58678;
+  --spice-button-active: #c25a4d;
+  --spice-tab-active: #e58678;
+  --spice-notification: #eaebee;
+  --spice-notification-error: #c25a4d;
+}

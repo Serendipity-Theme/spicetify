@@ -1,0 +1,14 @@
+/* Serendipity Serendipity Midnight for Spicetify */
+:root {
+  --spice-main: #151726;
+  --spice-sidebar: #1c1e2d;
+  --spice-player: #1c1e2d;
+  --spice-card: #1c1e2d;
+  --spice-subtext: #8d8f9e;
+  --spice-text: #dee0ef;
+  --spice-button: #f8d2c9;
+  --spice-button-active: #ee8679;
+  --spice-tab-active: #f8d2c9;
+  --spice-notification: #1c1e2d;
+  --spice-notification-error: #ee8679;
+}

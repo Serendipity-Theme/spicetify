@@ -1,0 +1,14 @@
+/* Serendipity Serendipity Sunset for Spicetify */
+:root {
+  --spice-main: #202231;
+  --spice-sidebar: #272938;
+  --spice-player: #272938;
+  --spice-card: #272938;
+  --spice-subtext: #6b6d7c;
+  --spice-text: #dee0ef;
+  --spice-button: #d6b4b4;
+  --spice-button-active: #d1918f;
+  --spice-tab-active: #d6b4b4;
+  --spice-notification: #272938;
+  --spice-notification-error: #d1918f;
+}
